@@ -1,0 +1,4 @@
+[submodule "themes/get-started-it"]
+	path = themes/get-started-it
+	url = https://github.com/webee/get-started-it.git
+    branch = master

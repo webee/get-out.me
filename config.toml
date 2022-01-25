@@ -1,0 +1,67 @@
+baseURL = 'https://get-out.me/'
+languageCode = 'zh-cn'
+defaultContentLanguage = 'zh-cn'
+hasCJKLanguage = true
+title = 'webee'
+# 主题
+theme = "get-started-it"
+enableGitInfo = false
+enableEmoji = true
+
+[author]
+name = "webee"
+email = "webee.yw@gmail.com"
+link = "https://get-out.me"
+
+[params]
+version = "0.3.X"
+defaultTheme = "auto"
+# public git repo url only then enableGitInfo is true
+# 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
+gitRepo = "https://github.com/webee/get-out.me"
+# which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
+# 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
+fingerprint = ""
+
+[menu]
+
+[[menu.main]]
+identifier = "posts"
+pre = ""
+name = "文章"
+post = ""
+url = "/posts/"
+title = ""
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+pre = ""
+name = "标签"
+post = ""
+url = "/tags/"
+title = ""
+weight = 2
+
+[[menu.main]]
+identifier = "categories"
+pre = ""
+name = "分类"
+post = ""
+url = "/categories/"
+title = ""
+weight = 3
+
+[[menu.main]]
+identifier = "about"
+pre = ""
+name = "关于"
+post = ""
+url = "/about/"
+title = ""
+weight = 4
+
+[markup]
+
+[markup.highlight]
+noClasses = false
