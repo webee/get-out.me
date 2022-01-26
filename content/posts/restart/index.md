@@ -3,10 +3,10 @@ title: '重启'
 subtitle: ''
 date: 2022-01-26T17:20:18+08:00
 lastmod: 2022-01-26T17:20:18+08:00
-draft: true
-author: ''
-authorLink: ''
-description: ''
+draft: false
+author: 'webee'
+authorLink: 'https://get-out.me'
+description: '重启，开启一个新的阶段'
 
 tags: ['meta', '自己']
 categories: ['随想']
@@ -19,8 +19,8 @@ toc:
   enable: true
 math:
   enable: false
+
 lightgallery: false
-license: ''
 ---
 
 重启不是重复和循环，而是结束一个阶段，上升一个台阶或者进入一个新的状态，重启让人让人抬头看向远方，甩掉旧的包袱，以一个新的姿态面对未来。但愿我能享受这全新的状态，我希望在以后我总是有重启的勇气。
@@ -41,11 +41,11 @@ license: ''
 
 总结一下:
 
-1. 时刻记录
-2. 快速开始
-3. 时常回顾
-4. 结合实际
-5. 修正改进
+1. **时刻记录**
+2. **快速开始**
+3. **时常回顾**
+4. **结合实际**
+5. **修正改进**
 
 ## 这只是一个开始
 
