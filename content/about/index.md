@@ -2,6 +2,8 @@
 title: '关于'
 date: 2022-01-25T15:18:41+08:00
 draft: false
+comment:
+  enable: true
 
 lightgallery: true
 

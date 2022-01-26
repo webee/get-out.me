@@ -1,6 +1,8 @@
 {
-  "name": "get out",
+  "name": "get out of me",
   "short_name": "get out",
+  "description": "get out of here to find something!",
+  "start_url": "/",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

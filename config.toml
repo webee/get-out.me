@@ -22,6 +22,7 @@ gitRepo = "https://github.com/webee/get-out.me"
 # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
 # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
 fingerprint = ""
+enableServiceWorker = true
 
 [params.search]
 enable = true
